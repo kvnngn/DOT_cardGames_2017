@@ -1,0 +1,10 @@
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\bin\Debug\Client.exe.config
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\bin\Debug\Client.exe
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\bin\Debug\Client.pdb
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\bin\Debug\NetworkCommsDotNetComplete.pdb
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\bin\Debug\NetworkCommsDotNetComplete.xml
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\obj\Debug\Client.exe
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Client\obj\Debug\Client.pdb
