@@ -1,0 +1,9 @@
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Server\bin\Debug\Server.exe.config
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Server\bin\Debug\Server.exe
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Server\bin\Debug\Server.pdb
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Server\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Server\bin\Debug\NetworkCommsDotNetComplete.pdb
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Server\bin\Debug\NetworkCommsDotNetComplete.xml
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Server\obj\Debug\Server.exe
+C:\Users\kevin-nguyen\rendu\DOT_cardGames_2017\DOT_cardGames_2017\Server\obj\Debug\Server.pdb
